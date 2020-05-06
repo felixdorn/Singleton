@@ -7,7 +7,7 @@
     </h1>
     <p align="center">
         <img src="https://github.com/felixdorn/singleton/workflows/CI/badge.svg?branch=master" alt="CI badge" />
-        <img src="https://github.styleci.io/repos/261477787/shield?branch=master&style=flat" alt="Style CI badge" />
+        <img src="https://github.styleci.io/repos/261576907/shield?branch=master&style=flat" alt="Style CI badge" />
         <img alt="Codecov" src="https://img.shields.io/codecov/c/github/felixdorn/singleton" alt="Code coverage badge">
         <img src="https://img.shields.io/packagist/l/delights/singleton" alt="License badge" />
         <img src="https://img.shields.io/packagist/v/delights/singleton" alt="Last Version badge" />
